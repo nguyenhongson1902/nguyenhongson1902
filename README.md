@@ -23,7 +23,7 @@
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sonnh1902) 
-  [![Bank Account](https://tinyurl.com/44uur652)](https://thanksalot.netlify.app/) 
+  [![Bank Account](https://tinyurl.com/4yk2bync)](https://thanksalot.netlify.app/) 
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
