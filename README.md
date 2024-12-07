@@ -1,5 +1,5 @@
 # 🧑‍💻 About Me:
-🔭 I'm currently seeking an employment opportunity as a Data Scientist, Machine Learning Engineer, AI Engineer<br>🤝 I’m looking to collaborate on Machine Learning and Deep Learning projects<br>❤️‍🔥 I love Algorithmic Programming and Machine Learning algorithms<br>📩 Reach me via: sonnh1902.work@gmail.com<br>💬 Ask me anything related to Algorithmic Coding, Machine Learning, Deep Learning and Data Science<br>⚡ Fun fact: I love playing football and running. I'm also a big fan of Manchester United a.k.a the Red Devils ⚽
+🔭 I'm currently seeking an employment opportunity as a Data Scientist, Machine Learning Engineer, AI Engineer<br>👉Check out [My Portfolio 2024](https://sonnguyen.onrender.com/)👈<br>🤝 I’m looking to collaborate on Machine Learning and Deep Learning projects<br>❤️‍🔥 I love Algorithmic Programming and Machine Learning algorithms<br>📩 Reach me via: sonnh1902.work@gmail.com<br>💬 Ask me anything related to Algorithmic Coding, Machine Learning, Deep Learning and Data Science<br>⚡ Fun fact: I love playing football and running. I'm also a big fan of Manchester United a.k.a the Red Devils ⚽
 
 
 ## 🌐 Socials:
